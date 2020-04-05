@@ -1,0 +1,19 @@
+{
+  "tools": [
+    {
+      "name": "Cypress",
+      "description": "End To End Front End Testing tool",
+      "confidence": "80",
+      "tags": [
+        "tool", "end to end", "e2e", "testing", "cypress"
+      ],
+      "reference": "https://docs.cypress.io/",
+      "exampleProjects": [
+        {
+          "name": "CzarEc Portfolio",
+          "url": "http://czar-ec.github.io"
+        }
+      ]
+    }
+  ]
+}
