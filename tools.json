@@ -14,6 +14,22 @@
           "url": "http://czar-ec.github.io"
         }
       ]
+    },
+    {
+      "name": "Javascript",
+      "description": "Also known as ECMA Script. High level language most commonly used in web / front end applications",
+      "confidence": "80",
+      "tags": [
+        "language", "front end", "web", "ecma", "javascript"
+      ],
+      "reference": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "previewImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png",
+      "exampleProjects": [
+        {
+          "name": "CzarEc Portfolio",
+          "url": "http://czar-ec.github.io"
+        }
+      ]
     }
   ]
 }
