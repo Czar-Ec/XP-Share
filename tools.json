@@ -2,7 +2,7 @@
   "tools": [
     {
       "name": "Git",
-      "descrpition": "Version control tool used to help keep track of changes to source code during development",
+      "description": "Version control tool used to help keep track of changes to source code during development",
       "confidence": "75",
       "tags": [
         "tool", "version control", "git"
