@@ -1,6 +1,21 @@
 {
   "tools": [
     {
+      "name": "Git",
+      "descrpition": "Version control tool used to help keep track of changes to source code during development",
+      "confidence": "75",
+      "tags": [
+        "tool", "version control", "git"
+      ],
+      "reference": "https://git-scm.com/",
+      "exampleProjects": [
+        {
+          "name": "CzarEc Portfolio",
+          "url": "http://czar-ec.github.io"
+        }
+      ]
+    },
+    {
       "name": "Cypress",
       "description": "End To End Front End Testing tool",
       "confidence": "80",
