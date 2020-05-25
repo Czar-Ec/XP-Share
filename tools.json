@@ -3,7 +3,7 @@
     {
       "name": "Git",
       "description": "Version control tool used to help keep track of changes to source code during development",
-      "confidence": "75",
+      "confidence": 75,
       "tags": [
         "tool", "version control", "git"
       ],
@@ -18,7 +18,7 @@
     {
       "name": "Cypress",
       "description": "End To End Front End Testing tool",
-      "confidence": "80",
+      "confidence": 80,
       "tags": [
         "tool", "end to end", "e2e", "testing", "cypress"
       ],
@@ -33,7 +33,7 @@
     {
       "name": "Javascript",
       "description": "Also known as ECMA Script. High level language most commonly used in web / front end applications",
-      "confidence": "80",
+      "confidence": 80,
       "tags": [
         "language", "front end", "web", "ecma", "javascript"
       ],
