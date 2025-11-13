@@ -45,6 +45,22 @@
           "url": "http://czar-ec.github.io"
         }
       ]
+    },
+    {
+      "name": "Angular",
+      "description": "Angular is a web framework that empowers developers to build fast, reliable applications. ",
+      "confidence": 90,
+      "tags": [
+        "language", "front end", "web", "ecma", "javascript", "angular", "framework"
+      ],
+      "reference": "https://angular.dev/overview",
+      "previewImage": "https://angular.dev/assets/icons/favicon-16x16.png",
+      "exampleProjects": [
+        {
+          "name": "CzarEc Portfolio",
+          "url": "http://czar-ec.github.io"
+        }
+      ]
     }
   ]
 }
