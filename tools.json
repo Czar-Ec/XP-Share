@@ -54,7 +54,7 @@
         "language", "front end", "web", "ecma", "javascript", "angular", "framework"
       ],
       "reference": "https://angular.dev/overview",
-      "previewImage": "https://angular.dev/assets/icons/favicon-16x16.png",
+      "previewImage": "https://angular.dev/assets/icons/apple-touch-icon.png",
       "exampleProjects": [
         {
           "name": "CzarEc Portfolio",
