@@ -70,6 +70,22 @@
       ]
     },
     {
+      "name": "Visual Studio Code",
+      "description": "Visual Studio Code (commonly referred to as VS Code) is an integrated development environment developed by Microsoft for Windows, Linux, macOS and web browsers.",
+      "confidence": 80,
+      "tags": [
+        "tool", "software development"
+      ],
+      "reference": "https://code.visualstudio.com/",
+      "previewImage": "https://code.visualstudio.com/assets/favicon.ico",
+      "exampleProjects": [
+        {
+          "name": "CzarEc Portfolio",
+          "url": "http://czar-ec.github.io"
+        }
+      ]
+    },
+    {
       "name": "NGINX",
       "description": "nginx (\"engine x\") is an HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server.",
       "confidence": 50,
@@ -78,6 +94,28 @@
       ],
       "reference": "https://nginx.org/",
       "previewImage": "https://nginx.org/img/nginx_logo.svg",
+      "exampleProjects": [ ]
+    },
+    {
+      "name": "Docker",
+      "description": "Docker is a set of products that uses operating-system-level virtualization to deliver software in packages called containers.",
+      "confidence": 60,
+      "tags": [
+        "tool", "web", "infrastructure", "back end", "front end", "database"
+      ],
+      "reference": "https://www.docker.com/",
+      "previewImage": "https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-192x192.png",
+      "exampleProjects": [ ]
+    },
+    {
+      "name": "Keycloak",
+      "description": "Keycloak is an open-source software product to allow single sign-on with identity and access management aimed at modern applications and services.",
+      "confidence": 60,
+      "tags": [
+        "tool", "web", "infrastructure", "authentication", "authorisation", "SSO", "identity management"
+      ],
+      "reference": "https://www.keycloak.org/",
+      "previewImage": "https://www.keycloak.org/resources/favicon.svg",
       "exampleProjects": [ ]
     },
     {
