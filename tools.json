@@ -18,11 +18,66 @@
     {
       "name": "Cypress",
       "description": "End To End Front End Testing tool",
-      "confidence": 80,
+      "confidence": 70,
       "tags": [
         "tool", "end to end", "e2e", "testing", "cypress"
       ],
       "reference": "https://docs.cypress.io/",
+      "previewImage": "https://www.cypress.io/apple-touch-icon.png",
+      "exampleProjects": [
+        {
+          "name": "CzarEc Portfolio",
+          "url": "http://czar-ec.github.io"
+        }
+      ]
+    },
+    {
+      "name": "Azure Pipelines",
+      "description": "Build, test, and deploy with CI/CD that works with any language, platform, and cloud",
+      "confidence": 80,
+      "tags": [
+        "tool", "software development", "ci", "cd"
+      ],
+      "reference": "https://azure.microsoft.com/en-us/products/devops/pipelines/",
+      "previewImage": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1062064-Products-1.4-24x24",
+      "exampleProjects": [ ]
+    },
+    {
+      "name": "Azure Repos",
+      "description": "Collaborate to build better code using pull requests and advanced file management with unlimited, cloud-hosted private Git repositories. ",
+      "confidence": 80,
+      "tags": [
+        "tool", "software development", "repository", "version control"
+      ],
+      "reference": "https://azure.microsoft.com/en-us/products/devops/repos/",
+      "previewImage": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1062064-Products-1.7-24x24",
+      "exampleProjects": [ ]
+    },
+    {
+      "name": "HTML",
+      "description": "HTML (HyperText Markup Language) is the foundational language for all web pages",
+      "confidence": 90,
+      "tags": [
+        "language", "front end", "web"
+      ],
+      "reference": "https://www.w3schools.com/html/",
+      "previewImage": "https://www.w3schools.com/whatis/img_css.jpg",
+      "exampleProjects": [
+        {
+          "name": "CzarEc Portfolio",
+          "url": "http://czar-ec.github.io"
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "description": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML",
+      "confidence": 70,
+      "tags": [
+        "language", "front end", "web"
+      ],
+      "reference": "https://www.w3schools.com/css/",
+      "previewImage": "https://www.w3schools.com/whatis/img_css.jpg",
       "exampleProjects": [
         {
           "name": "CzarEc Portfolio",
@@ -43,6 +98,53 @@
         {
           "name": "CzarEc Portfolio",
           "url": "http://czar-ec.github.io"
+        }
+      ]
+    },
+    {
+      "name": "Typescript",
+      "description": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
+      "confidence": 80,
+      "tags": [
+        "language", "front end", "web", "ecma", "javascript", "typescript"
+      ],
+      "reference": "https://www.typescriptlang.org/",
+      "previewImage": "https://www.typescriptlang.org/icons/icon-512x512.png",
+      "exampleProjects": [
+        {
+          "name": "CzarEc Portfolio",
+          "url": "http://czar-ec.github.io"
+        }
+      ]
+    },
+    {
+      "name": "Java",
+      "description": "Java is a high-level, general-purpose, memory-safe, object-oriented programming language.",
+      "confidence": 70,
+      "tags": [
+        "language", "back end", "web", "spring", "java"
+      ],
+      "reference": "https://www.java.com/en/",
+      "previewImage": "https://www.java.com/jcom/images/Java-horz-wht.svg",
+      "exampleProjects": []
+    },
+    {
+      "name": "Python",
+      "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically type-checked and garbage-collected.",
+      "confidence": 60,
+      "tags": [
+        "language", "python"
+      ],
+      "reference": "https://www.python.org/",
+      "previewImage": "https://www.python.org/static/apple-touch-icon-144x144-precomposed.png",
+      "exampleProjects": [
+        {
+          "name": "ARCD/PrimAITE",
+          "url": "https://github.com/Autonomous-Resilient-Cyber-Defence/PrimAITE"
+        },
+        {
+          "name": "dstl/YAWNING-TITAN",
+          "url": "https://github.com/dstl/YAWNING-TITAN"
         }
       ]
     },
