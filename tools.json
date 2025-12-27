@@ -61,13 +61,24 @@
         "language", "front end", "web"
       ],
       "reference": "https://www.w3schools.com/html/",
-      "previewImage": "https://www.w3schools.com/whatis/img_css.jpg",
+      "previewImage": "https://www.w3schools.com/whatis/img_html.jpg",
       "exampleProjects": [
         {
           "name": "CzarEc Portfolio",
           "url": "http://czar-ec.github.io"
         }
       ]
+    },
+    {
+      "name": "NGINX",
+      "description": "nginx (\"engine x\") is an HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server.",
+      "confidence": 50,
+      "tags": [
+        "language", "web", "infrastructure"
+      ],
+      "reference": "https://nginx.org/",
+      "previewImage": "https://nginx.org/img/nginx_logo.svg",
+      "exampleProjects": [ ]
     },
     {
       "name": "CSS",
