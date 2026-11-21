@@ -85,7 +85,7 @@
     {
       "name": "Docker",
       "description": "Docker is a set of products that uses operating-system-level virtualization to deliver software in packages called containers.",
-      "confidence": 60,
+      "confidence": 70,
       "tags": [
         "tool",
         "web",
